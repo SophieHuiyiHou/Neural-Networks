@@ -28,3 +28,20 @@ You can install them via:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/neural-network-demo.git
+   cd neural-network-demo
+   ```
+2. Install dependencies:
+   ```bash
+    pip install -r requirements.txt
+   ```
+3. Launch the notebook:
+   ```bash
+    jupyter notebook "Neural networks.ipynb"
+   ```
